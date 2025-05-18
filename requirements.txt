@@ -1,10 +1,9 @@
-pandas
-
 numpy
-
-requests
-
-streamlit
-
+pandas
+matplotlib
+seaborn
 plotly
- 
+nbformat
+requests
+beautifulsoup4
+ipykernel
